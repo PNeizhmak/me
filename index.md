@@ -23,4 +23,3 @@
 - All types of reports (business, technical)
 - To talk with people
 - To challenge and sharp existing tools and procesess
-
