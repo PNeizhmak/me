@@ -1,5 +1,3 @@
-About myself
-
 ### TL;DR
 - I'm a team member who share company vision and goals with the teams by giving them shape and evaluated by the effectiveness of the direct managers or teams.
 - I'm close working with 'Product' interface to align delivery values and orchestrating technical aspects of product development.
