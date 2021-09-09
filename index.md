@@ -5,7 +5,7 @@
 - I ensure the right balance of operational excellence, innovation and speed across teams against company-level goals.
 - My role is dynamic enough and behaviour is highly depends on the context.
 
-### Most popular practices I follow 
+### Often used practices
 - Trust and delegation
 - Ongoing feedback
 - Skip level activities
