@@ -1,12 +1,12 @@
 ## About myself
 
 ### TL;DR
-- I'm a T-shaped team member who shares company vision and goals with managers and teams by giving them shape and evaluated by the effectiveness of them
+- I'm a T-shaped team member who implements company vision and goals with managers and teams, and evaluated by the effectiveness of them
 - I'm close working with 'Product' interface to align delivery values and orchestrating technical aspects of product development
-- I ensure the right balance of operational excellence, innovation and speed across teams against company-level goals
+- I ensure the right balance of operational excellence, innovation and speed across domains against company-level goals
 - My role is dynamic enough and behaviour is highly depends on the context
 
-### 3 behaviours i like to use
+### Top 3 behaviours i like to use
 - Trust and delegation
 - Ongoing feedback
 - Skip level activities
