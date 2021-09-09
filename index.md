@@ -1,3 +1,4 @@
+## About myself
 
 ### TL;DR
 - I'm a team member who share company vision and goals with the teams by giving them shape and evaluated by the effectiveness of the direct managers or teams.
@@ -5,11 +6,10 @@
 - I ensure the right balance of operational excellence, innovation and speed across teams against company-level goals.
 - My role is dynamic enough and behaviour is highly depends on the context.
 
-### Often used practices
+### 3 behaviours i like to use
 - Trust and delegation
 - Ongoing feedback
 - Skip level activities
-- Self development
 
 ### Key value metrics
 - I try to spend up to 10-20% of my time for strategic work
@@ -18,9 +18,10 @@
 - Teams cycle time development should asymptote to 1 day
 - All teams constantly adopt new improvements, at least one practice/approach per Q.
 
-### I like
+### I prefer
 - To work around artefact
 - Clear agenda, short and structured meetings
 - All types of reports (business, technical)
 - To talk with people
 - To challenge and sharp existing tools and procesess
+- Trying to be the better version of myself
