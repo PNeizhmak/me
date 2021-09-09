@@ -1,7 +1,7 @@
 ## About myself
 
 ### TL;DR
-- I'm a team member who shares company vision and goals with managers and teams by giving them shape and evaluated by the effectiveness of them
+- I'm a T-shaped team member who shares company vision and goals with managers and teams by giving them shape and evaluated by the effectiveness of them
 - I'm close working with 'Product' interface to align delivery values and orchestrating technical aspects of product development
 - I ensure the right balance of operational excellence, innovation and speed across teams against company-level goals
 - My role is dynamic enough and behaviour is highly depends on the context
@@ -25,4 +25,3 @@
 - To foster all types of reports
 - To talk with different interfaces (diversity)
 - To challenge and sharp existing tools and procesess
-And trying to be the better version of yourself 
