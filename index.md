@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## TL;DR
+- I'm a team member who share company vision and goals with the teams by giving them shape and evaluated by the effectiveness of the direct managers or teams.
+- I'm close working with 'Product' interface to align delivery values and orchestrating technical aspects of product development.
+- I ensure the right balance of operational excellence, innovation and speed across teams against company-level goals.
+- My role is dynamic enough and behaviour is highly depends on the context.
 
-You can use the [editor on GitHub](https://github.com/PNeizhmak/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Some taste practices/approaches I follow 
+- Trust and delegation
+- Ongoing feedback
+- Skip level activities
+- Personal growth
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Key value metrics
+- I try to spend up to 10-20% of my time for strategic work
+- Impacting using domain and product expertise, innovations, product and technical leadership and mentoring
+- All teams deliver with constant and predictable velocity (and improving it through the paradigm of continuous improvement)
+- Teams cycle time development should asymptote to 1 day
+- All teams constantly adopt new improvements, at least one practice/approach per Q.
 
-### Markdown
+## I like
+- To work around artefact
+- Clear agenda, short and structured meetings
+- All types of reports (business, technical)
+- To talk with people
+- To challenge and sharp existing tools and procesess
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PNeizhmak/me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
