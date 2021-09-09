@@ -18,11 +18,11 @@
 - Teams cycle time development should asymptote to 1 day
 - All teams constantly adopt new improvements, at least one practice/approach per Q.
 
-### I cultivate and promote
+### Some "To's" fundamentals
 - To work around artefact
 - To drive forward technical initiatives and projects
-- Clear agenda, short and structured meetings
-- All types of reports (business, technical)
-- To talk with people
+- To follow clear agenda, short and structured meetings
+- To foster all types of reports
+- To talk with different interfaces (diversity)
 - To challenge and sharp existing tools and procesess
-- Trying to be the better version of myself
+And trying to be the better version of yourself 
