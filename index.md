@@ -4,11 +4,11 @@
 - I ensure the right balance of operational excellence, innovation and speed across teams against company-level goals.
 - My role is dynamic enough and behaviour is highly depends on the context.
 
-### Some taste practices/approaches I follow 
+### Most popular practices I follow 
 - Trust and delegation
 - Ongoing feedback
 - Skip level activities
-- Personal growth
+- Self development
 
 ### Key value metrics
 - I try to spend up to 10-20% of my time for strategic work
