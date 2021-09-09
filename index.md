@@ -18,7 +18,7 @@ I try to spend up to 10-20% of my time for strategic work
 - **Impact**\
 I'm doing it using domain and product expertise, innovations, product and technical leadership and mentoring
 - **Ownership**\
-I'm ultimately accountable for the alignment between ongoing initiatives and project vs business objectives
+I'm ultimately accountable for the alignment between ongoing initiatives and projects vs business objectives
 - **Delivery**\
 All teams deliver with constant and predictable velocity (and improving it through the paradigm of continuous improvement)
 - **Innovations**\
