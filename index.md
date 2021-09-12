@@ -31,7 +31,7 @@ Ask for a feedback from "top to bottom", invest some time to be a better version
 Teams cycle time development should asymptote to 1 day
 
 
-### Some "To's" fundamentals
+### Fundamentals I do follow
 - To work around artefact
 - To drive forward technical initiatives and projects
 - To follow clear agenda, short and structured meetings
