@@ -7,6 +7,11 @@
 - I'm building organizational backbone, investing in growth, shaping the context, fortifying resilience and eagering for success
 - My role is dynamic enough and behaviour is highly depends on the context
 
+
+### Favourite tech/leadership books
+- Extreme Ownership (How U.S. Navy SEALs Lead and Win)
+- Managing Humans (Biting and Humorous Tales of a Software Engineering Manager)
+
 ### Top 3 behaviours I like to use
 - Trust and delegation
 - Ongoing feedback
