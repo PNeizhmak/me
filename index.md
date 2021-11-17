@@ -9,8 +9,8 @@
 
 
 ### Favourite tech/leadership books
-- Extreme Ownership (How U.S. Navy SEALs Lead and Win)
-- Managing Humans (Biting and Humorous Tales of a Software Engineering Manager)
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
+- [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O)
 
 ### Top 3 behaviours I like to use
 - Trust and delegation
