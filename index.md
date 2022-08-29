@@ -7,6 +7,8 @@
 - I'm building organizational backbone, investing in growth, shaping the context, fortifying resilience and eagering for success
 - My role is dynamic enough and behaviour is highly depends on the context
 
+### Publications
+- [How to determine a trade-off between speed and quality and in what way it connects to retrospectives](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
 
 ### Favourite tech/leadership books
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
