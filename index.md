@@ -9,18 +9,21 @@
 - My role is dynamic enough and behaviour is highly depends on the context
 
 ### Publications
-- [How to determine a trade-off between speed and quality and in what way it connects to retrospectives](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
+- [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
 
 ### Favourite tech/leadership books
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O)
 
+### Number 1 skill I've learned as a leader 
+- Communcation (up, down, across)
+
 ### Top 5 behaviours I like to use
-- Lead by design 
-- Servant leadership 
-- Trust and delegation
-- Ongoing feedback
-- Skip level activities
+- Servant leadership and lead by design 
+- Strategic thinking
+- Priotitization, trust and delegation
+- Networking and ongoing feedback
+- Continuous learning
 
 ### Key value metrics
 - **Strategy**\
