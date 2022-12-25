@@ -1,3 +1,7 @@
+---
+image: /assets/images/logo.png
+---
+
 ## About myself
 
 ### TL;DR
