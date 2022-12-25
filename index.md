@@ -16,7 +16,7 @@
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
 - [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
 
-### Number 1 skill I have learned as a leader 
+### Top skill I have learned as a leader 
 - Communication (up, down, across)
 
 ### Top 5 behaviors I use and evangelize 
