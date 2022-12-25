@@ -1,8 +1,9 @@
 ## About myself
 
 ### TL;DR
-- I'm an E-shaped team member who implements company vision and goals with managers and teams and evaluated by the effectiveness (positive delivery and quality) of them 
-- I'm closely working with 'Product' interface to align delivery values and orchestrating technical aspects of product development
+- I'm an E-shaped team member who implements company vision and goals with managers and teams and evaluated by the effectiveness (positive delivery and quality) of them
+- Responsible for engineering strategy (vision and execution) 
+- I'm closely working with 'Product' interface to drive technical direction of a product, aligning delivery values and orchestrating technical aspects of product development
 - I ensure the right balance of operational excellence, innovation and speed across domains against company-level goals
 - I'm building organizational backbone, investing in growth, shaping the context, fortifying resilience and eagering for success
 - My role is dynamic enough and behaviour is highly depends on the context
