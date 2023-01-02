@@ -1,4 +1,4 @@
-## About myself1
+## About myself
 
 ### TL;DR
 - One lucky guy who implement company vision and goals with directors, managers and teams and evaluated by the effectiveness (time to market, quality, cost) of them
