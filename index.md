@@ -2,7 +2,7 @@
 
 ### TL;DR
 - One lucky guy who implement company vision and goals with directors, managers and teams and evaluated by the effectiveness (time to market, quality, cost) of them
-- Responsible for engineering strategy (vision and execution) 
+- Responsible for engineering strategy 
 - Closely working with 'Product' interface to drive technical direction of a product and orchestrate technical aspects of product development
 - Ensure the right balance of operational excellence, innovation and speed across domains against company-level goals
 - Building organizational backbone by fostering it's culture
@@ -11,7 +11,7 @@
 ### Publications
 - [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
 
-### Top 3 favourite books
+### Top 3 favorite books
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
 - [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
