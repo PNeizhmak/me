@@ -12,7 +12,7 @@
 - [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
 
 ### Top 5 favorite books
-- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
+- [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
 - [The Strategy Book](https://www.amazon.com/Strategy-Book-strategically-deliver-outstanding/dp/1292264136)
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
 - [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
