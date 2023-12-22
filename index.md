@@ -5,7 +5,6 @@
 - Responsible for engineering strategy 
 - Closely collaborating with 'Product' interface to orchestrate technical aspects of product development
 - Ensure the right balance of operational excellence, innovation and speed across domains against company-level goals
-- Building organizational backbone by fostering a strong and adaptive culture
 - Adapting behavior to the dynamic nature of the role, tailoring actions to context-specific requirements
 
 ### Publications
