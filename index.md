@@ -28,14 +28,14 @@
 
 ### Top 5 behaviors I evangelize 
 - Servant leadership, lead by design and context
+- Using pull instead of push model 
 - Strategic thinking
 - Prioritization, trust and delegation
 - Networking and ongoing feedback
-- Continuous learning
 
 ### Top 5 fundamentals I follow
 - To work around artefact, follow clear agenda and short-structured meetings
-- To use pull vs push model 
 - To drive forward technical initiatives and projects
 - To foster all types of metrics and data reports
-- To foster an organizational culture (continuous learning, improvement, collaboration and teamwork)
+- To backbone an organizational culture
+- To do continuous learning/improvement
