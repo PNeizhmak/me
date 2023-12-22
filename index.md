@@ -21,7 +21,7 @@
 - Communication (up, down, across)
 
 ### Top engineering pillar
-- Efficiency (Doing the wrong thing right is not nearly as good as doing the right thing wrong)
+- Efficiency (doing the wrong thing right is not nearly as good as doing the right thing wrong)
 
 ### Top tool to work with Inputs and produce Outputs
 - Metric tree
