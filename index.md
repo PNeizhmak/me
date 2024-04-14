@@ -10,7 +10,9 @@
 ### Publications
 - [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
 
-### Top 5 favorite books
+### Top 7 favorite books
+- [The Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
+- [The Engineering Executive's Primer](https://www.amazon.com/Engineering-Executives-Primer-Impactful-Leadership/dp/1098149483)
 - [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS)
 - [The Strategy Book](https://www.amazon.com/Strategy-Book-strategically-deliver-outstanding/dp/1292264136)
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
